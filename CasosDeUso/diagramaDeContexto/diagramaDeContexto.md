@@ -16,7 +16,7 @@ El **Diagrama de Contexto** ofrece una representación general del sistema, orga
 
 
 ## 📘 Diagrama de Contexto - Director de Grado
-![Diagrama de Contexto Profesor](/images/modelosUML/DiagramasContexto/DiagramaDeContextoDirectorGrado.svg) |[ver código](/CasosDeUso/diagramaDeContexto/DiagramaDeContextoDirectorGrado.puml)
+![Diagrama de Contexto Profesor](/images/modelosUML/DiagramasContexto/DiagramaDeContextoDirectorDeGrado.svg) |[ver código](/CasosDeUso/diagramaDeContexto/DiagramaDeContextoDirectorDeGrado.puml)
 
 
 ## 📘 Diagrama de Contexto - Director de Calidad
