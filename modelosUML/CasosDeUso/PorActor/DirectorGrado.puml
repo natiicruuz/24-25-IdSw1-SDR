@@ -4,10 +4,18 @@ left to right direction
 
 actor "Director de Grado" as DirectorGrado
 
-usecase "Revisar Guia" as RevisarGuia
-usecase "Publicar Guía Docente" as PublicarGuia
+usecase "Iniciar sesión" as IniciarSesion
+usecase "Cerrar sesión" as CerrarSesion
+usecase "Revisar Guía" as RevisarGuia
+usecase "Aprobar Guía" as AprobarGuia
+usecase "Rechazar Guía" as RechazarGuia
+usecase "Publicar Guía" as PublicarGuia
 
+DirectorGrado --> IniciarSesion
+DirectorGrado --> CerrarSesion
 DirectorGrado --> RevisarGuia
+DirectorGrado --> AprobarGuia
+DirectorGrado --> RechazarGuia
 DirectorGrado --> PublicarGuia
 
 @enduml
